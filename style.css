@@ -38,7 +38,7 @@ a:hover {
 }
 
 #profile-pic {
-  border-radius: 50%;
+  border-radius: 90px;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
 }
 
